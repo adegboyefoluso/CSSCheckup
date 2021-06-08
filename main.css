@@ -1,0 +1,92 @@
+first-container{
+    background-color: #E4F9F5;
+    position:relative;
+    padding-top:100px;
+    margin-bottom: 100px;
+  }
+  h1{margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color:#66bfbf;
+  }
+  h2{font-size:2.5rem;
+      color:#66bfbf;
+      font-weight: normal;}
+  
+  h3{color:#66bfbf;
+      line-height: 2}
+  
+  
+  
+  body{
+    margin:0;
+    text-align: center;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color:#40514e;
+  }
+  /*to make the horizontal dotted line*/
+  hr{border:dotted grey 6px;
+    border-bottom: none;
+    margin:100px auto 100px auto;
+    width:40px}
+  
+  p{line-height: 2}
+  
+  .bottom-cloud{position:absolute;
+                left:500px;
+                bottom:300px;
+  
+    }
+  
+  
+  .top-cloud{position:absolute;
+              right:500px;
+              top:50px;}
+  
+  .skill-row{width:50%;
+            margin:100px auto 0 auto;
+            text-align: left;
+            line-height: 2;
+  
+  }
+  .images{border-radius: 20px;}
+  
+  .html{width: 10%;
+        float:left;
+       margin-right:50px;}
+  .csharp{width:20%;
+          float:right;
+          margin-left:10px}
+  
+  .intro{width:20%;
+          margin:0 auto 0 auto;}
+  
+  
+  
+  }
+  }
+  
+  .Concept{width:40%;
+       margin:50px auto 80px auto;}
+  
+  .middle-container{margin:100px 0}
+  
+  .bottom-container{
+                    background-color:#66bfbf;
+                   padding:50px 0 0 80px;}
+  
+  .footer-link{
+              text-decoration: none;
+              margin-right: 50px;
+              font-weight: bold;
+              color:#11999E;
+            }
+  
+  .footer{
+          padding-bottom:30px;
+        margin:40px auto  0 auto;
+        width:30%;
+        color:white;
+    ;}
+ 
+  
